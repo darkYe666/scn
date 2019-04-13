@@ -10,4 +10,5 @@ public class ScnParentApplication {
         SpringApplication.run(ScnParentApplication.class, args);
     }
 
+
 }
