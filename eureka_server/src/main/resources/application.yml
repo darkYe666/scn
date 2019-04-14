@@ -8,6 +8,7 @@ eureka:
     fetch-registry: false
 
 
+
 spring:
   application:
     name: eureka-server
