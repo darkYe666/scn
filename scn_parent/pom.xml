@@ -56,7 +56,8 @@
 
     <project>
         <modules>
-            <module>eureka-server</module>
+            <module>eureka_server</module>
+            <module>eureka_client</module>
         </modules>
     </project>
 
