@@ -13,4 +13,9 @@ public class EurekaClientApplicationTests {
     public void contextLoads() {
     }
 
+    @Test
+    public void testLogin() {
+
+    }
+
 }

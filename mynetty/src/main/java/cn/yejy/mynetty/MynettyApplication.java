@@ -10,4 +10,5 @@ public class MynettyApplication {
         SpringApplication.run(MynettyApplication.class, args);
     }
 
+
 }
